@@ -19,13 +19,14 @@
 - The initial focus behavior described above differs slightly from the behavior provided by some browsers for native HTML radio groups.
 
 ## WAI-ARIA Roles, States, and Properties
-- The radio buttons are contained in or owned by an element with role radiogroup.
-- Each radio button element has role radio.
-- If a radio button is checked, the radio element has aria-checked set to true. If it is not checked, it has aria-checked set to false.
-- Each radio element is labelled by its content, has a visible label referenced by aria-labelledby, or has a label specified with aria-label.
+- The radio buttons are contained in or owned by an element with role <code>radiogroup</code>.
+- Each radio button element has role <code>radio</code>.
+- If a radio button is checked, the radio element has <code>aria-checked</code> set to true. If it is not checked, it has aria-checked set to false.
+- Each radio element is labelled by its content, has a visible label referenced by <code>aria-labelledby</code>, 
+  or has a label specified with <code>aria-label</code>.
 - The radiogroup element has a visible label referenced by aria-labelledby or has a label specified with aria-label.
 - If elements providing additional information about either the radio group or each radio button are present, 
-  those elements are referenced by the radiogroup element or radio elements with the aria-describedby property.
+  those elements are referenced by the radiogroup element or radio elements with the <code>aria-describedby</code> property.
 
 ## Examples
 - [Radio Group Example Using Roving tabindex](https://www.w3.org/WAI/ARIA/apg/patterns/radio/examples/radio/)
