@@ -1,5 +1,5 @@
 
-# Radio Buttons
+# Radio
 
 ## Keyboard Interaction
 
