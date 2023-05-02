@@ -38,7 +38,7 @@
   - <code>aria-colcount</code> or <code>aria-rowcount</code> is set to the total number of columns or rows, respectively.
   - <code>aria-colindex</code> or <code>aria-rowindex</code> is set to the position of a cell within a row or column, respectively.
 - If the table includes cells that span multiple rows or multiple columns, then <code>aria-rowspan</code> or <code>aria-colspan</code> is applied as described in the [Grid and Table Properties Practice](https://www.w3.org/WAI/ARIA/apg/practices/grid-and-table-properties/#gridAndTableProperties_spans).
-- If rows or cells are included in a table via aria-owns, they will be presented to assistive technologies after the DOM descendants of the table element unless the DOM descendants are also included in the aria-owns attribute.
+- If rows or cells are included in a table via <code>aria-owns</code>, they will be presented to assistive technologies after the DOM descendants of the table element unless the DOM descendants are also included in the aria-owns attribute.
 
 ## Example
 - [W3C Table Example](https://www.w3.org/WAI/ARIA/apg/patterns/table/examples/table/)
