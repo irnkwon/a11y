@@ -22,6 +22,9 @@
 - Provide no accessibility functionality and are generally only of use when a long table is printed.
 - No harm in using it for table styling or other reasons.
 
+## Example
+- https://www.magentaa11y.com/checklist-web/table/
+
 # References
 - https://www.w3.org/WAI/tutorials/tables/
 - https://webaim.org/techniques/tables/
