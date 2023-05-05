@@ -3,8 +3,9 @@
 - Header cells must be marked up with <code>\<th></code>, and data cells with <code>\<td></code> to make tables accessible.
 - For more complex tables, explicit associations may be needed using <code>scope</code>, <code>id</code>, and <code>headers</code> attributes.
 - As a general rule, tables aren’t meant to be used for layout purposes. Instead, a best practice is to use CSS for visual presentation.
-- Not an interactive widget; its cells are not focusable or selectable.
+- Tables are not an interactive widget; its cells are not focusable or selectable.
   - The [grid pattern](https://www.w3.org/WAI/ARIA/apg/patterns/grid/) is used to make an interactive widget that has a tabular structure.
+- Input form elements will break the JAWS screen reader and should be avoided in the table.
 
 ## Caption and Summary
 - A caption functions like a heading for a table
