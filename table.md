@@ -43,7 +43,7 @@
 
 ## Example
 - [W3C Table Example](https://www.w3.org/WAI/ARIA/apg/patterns/table/examples/table/)
-- [MagentaA11y Table Examples](https://www.magentaa11y.com/checklist-web/table/)
+- [MagentaA11y Table Example](https://www.magentaa11y.com/checklist-web/table/)
 - [Sortable Table Example](https://www.w3.org/WAI/ARIA/apg/patterns/table/examples/sortable-table/)
 
 # References
