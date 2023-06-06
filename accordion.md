@@ -1,8 +1,8 @@
 
 # Accordion
+- The entire accordion header should be clickable and relay hover and focus states.
 
 ## Keyboard Interaction
-
 - <code>Enter</code> or <code>Space</code>
   - When focus is on the accordion header for a collapsed panel, expands the associated panel. 
     If the implementation allows only one panel to be expanded, and if another panel is expanded, collapses that panel.
