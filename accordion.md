@@ -46,3 +46,4 @@
 
 # References
 - https://www.w3.org/WAI/ARIA/apg/patterns/accordion/
+- https://www.aditus.io/patterns/accordion/
