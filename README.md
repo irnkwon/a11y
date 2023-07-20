@@ -7,3 +7,4 @@
 
 ## Resources
 - [Accessibility Support](https://a11ysupport.io/)
+- [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/)
